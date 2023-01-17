@@ -127,7 +127,7 @@ export const Projects = () => {
                       </Nav.Item>
                       <Nav.Item>
                         <Nav.Link eventKey="second">
-                          ClubTok (ClubHouse,Tiktok)
+                          ClubTok
                         </Nav.Link>
                       </Nav.Item>
                       <Nav.Item>
